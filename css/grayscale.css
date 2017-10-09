@@ -58,6 +58,7 @@ a {
   text-align: center;
   color: white;
   background: url("../img/banner.png") no-repeat bottom center scroll;
+  overflow: hidden;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -75,7 +76,7 @@ a {
       height: 100%;
       padding: 0; }
       .masthead .intro-body .brand-heading {
-        font-size: 60px;
+        font-size: 70px;
         text-align: left; }
       .masthead .intro-body .intro-text {
         font-size: 22px; } }
